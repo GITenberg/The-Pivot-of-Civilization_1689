@@ -1,0 +1,37 @@
+_repo: The-Pivot-of-Civilization_1689
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+creator:
+  author:
+    agent_name: Sanger, Margaret
+    aliases:
+    - Higgins, Margaret Louisa
+    - Sanger, Margaret Higgins
+    birthdate: 1879
+    deathdate: 1966
+    gutenberg_agent_id: '693'
+    url: http://www.gutenberg.org/2009/agents/693
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sanger
+description: ''
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birth control'
+- !lcc 'HQ'
+- GITenberg
+title: The Pivot of Civilization
+url: http://www.gutenberg.org/ebooks/1689
