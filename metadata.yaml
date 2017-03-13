@@ -1,5 +1,5 @@
 _repo: The-Pivot-of-Civilization_1689
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Wells, H. G. (Herbert George)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '30'
     url: http://www.gutenberg.org/2009/agents/30
     wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sanger, Margaret
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/693
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Sanger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1689#The-Pivot-of-Civilization
 gutenberg_issued: '2006-02-22'
 gutenberg_type: Text
 identifiers:
